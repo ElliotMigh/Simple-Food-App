@@ -6,9 +6,9 @@
 
 
 
-<img width="307" alt="screenDeleteFoodApp" src="https://user-images.githubusercontent.com/87560931/200752504-f214df27-ce89-4819-93b8-688678d97d69.png">[Delete item in this App]
+<img width="307" alt="screenDeleteFoodApp" src="https://user-images.githubusercontent.com/87560931/200752504-f214df27-ce89-4819-93b8-688678d97d69.png">[Delete item in this App] <img width="294" alt="screenUpdateFoodApp" src="https://user-images.githubusercontent.com/87560931/200752548-c6642b93-9d82-4ded-b731-afcb44ac5439.png">[Update item in this App]
 
-<img width="294" alt="screenUpdateFoodApp" src="https://user-images.githubusercontent.com/87560931/200752548-c6642b93-9d82-4ded-b731-afcb44ac5439.png">[Update item in this App]
+
 
 <img width="303" alt="screenSearchFoodApp" src="https://user-images.githubusercontent.com/87560931/200752610-830560a9-6025-46af-b243-afc81e1ce821.png">[Search in this App]
 
